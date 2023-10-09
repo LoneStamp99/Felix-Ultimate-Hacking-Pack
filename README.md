@@ -27,6 +27,5 @@ A Collection List Of Hacking toolkit.
 * Worms, Malware And Virus Makers
 
 ### Resources
-* https://ouo.io/BT5INq / https://rsrht.com/ultimatepack 
-* https://ouo.io/z46lOI / https://rsrht.com/ultimatepackt 
+*
 
