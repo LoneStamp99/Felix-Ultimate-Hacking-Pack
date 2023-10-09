@@ -1,7 +1,7 @@
 # Felix-Ultimate-Hacking-Pack
-Reposted: A Collection List Of Hacking toolkit.
+A Collection List Of Hacking toolkit.
 
-## Content Lis
+## Content List
 
 * Account Crackers
 * Botnets
@@ -25,3 +25,8 @@ Reposted: A Collection List Of Hacking toolkit.
 * Vpn And Security Tools
 * Website And Sql Tools
 * Worms, Malware And Virus Makers
+
+### Resources
+* https://ouo.io/BT5INq / https://rsrht.com/ultimatepack 
+* https://ouo.io/z46lOI / https://rsrht.com/ultimatepackt 
+
