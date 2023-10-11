@@ -26,6 +26,9 @@ A Collection List Of Hacking toolkit.
 * Website And Sql Tools
 * Worms, Malware And Virus Makers
 
+#### Size
+1.93 GB
+
 ## Screenshots
 
 ### Download
