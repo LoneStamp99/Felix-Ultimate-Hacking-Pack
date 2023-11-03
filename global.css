@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lalezar: Lalezar;
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-gray-100: rgba(18, 9, 9, 0.37);
+  --color-gray-200: rgba(21, 7, 7, 0.45);
+  --color-white: #fff;
+  --color-snow: rgba(255, 251, 251, 0.45);
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-31xl: 50px;
+}

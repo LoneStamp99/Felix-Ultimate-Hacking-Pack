@@ -1,0 +1,147 @@
+.bg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  width: 2108px;
+  height: 1060px;
+  object-fit: cover;
+}
+.felix-ultimate-hacking {
+  position: absolute;
+  top: 36px;
+  left: 712px;
+  color: #000;
+  -webkit-text-stroke: 1px #fff4f4;
+}
+img {
+     border-radius: 10px;
+     -webkit-mask-image: linear-gradient(45deg,#fff 25%,rgba(255, 255, 255, 0.2) 50%,#fff 75%);
+     mask-image: linear-gradient(45deg,#fff 25%,rgba(255, 255, 255, 0.2) 50%,#fff 75%);
+     -webkit-mask-size: 800%;
+     mask-size: 800%;
+     -webkit-mask-position: 0;
+     mask-position: 0;
+     animation: infinite-scroll 4s linear infinite;
+     /* add */
+  }
+  @keyframes infinite-scroll {
+0% {
+     -webkit-mask-position: 0;
+     mask-position: 0;
+    }
+100% {
+     -webkit-mask-position: -120%;
+     mask-position: -120%;
+    }
+  }
+.urlarea {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-100);
+  width: 1180px;
+  height: 76px;
+}
+.copydown,
+.copyup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-snow);
+  width: 100px;
+  height: 100px;
+}
+.copydown {
+  top: 12px;
+  left: 24px;
+  background-color: var(--color-gray-200);
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.copybutton {
+  position: absolute;
+  top: 0;
+  left: 1262px;
+  width: 124px;
+  height: 112px;
+  cursor: pointer;
+}
+.copybutton.animate {
+  animation: bounce 0.5s;
+}
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.8);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.httpsouoiobt5inq,
+.theurlset {
+  position: absolute;
+  top: 24px;
+  left: 358px;
+}
+.theurlset {
+  top: 212px;
+  left: 303px;
+  width: 1386px;
+  height: 112px;
+}
+.httpsouoioz46loi,
+.theurlset1 {
+  position: absolute;
+  top: 15px;
+  left: 358px;
+}
+.theurlset1 {
+  top: 376px;
+  left: 303px;
+  width: 1386px;
+  height: 112px;
+}
+.httpsrsrhtcomultimatepack,
+.theurlset2 {
+  position: absolute;
+  top: 15px;
+  left: 260px;
+}
+.theurlset2 {
+  top: 589px;
+  left: 303px;
+  width: 1386px;
+  height: 112px;
+}
+.httpsrsrhtcomultimatepack1,
+.theurlset3 {
+  position: absolute;
+  top: 15px;
+  left: 243px;
+}
+.theurlset3 {
+  top: 802px;
+  left: 303px;
+  width: 1386px;
+  height: 112px;
+}
+.felixultimatehackingpack {
+  position: relative;
+  border-radius: var(--br-base);
+  background-color: #070202;
+  width: 100%;
+  height: 1040px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-lalezar);
+}
